@@ -1,0 +1,18 @@
+{
+  "name": "ddb2r-v2",
+  "version": "1.0.0",
+  "description": "V2 of DB2R",
+  "license": "MIT",
+  "repository": "pajsen9263/db2r-v2",
+  "main": "index.js",
+  "keywords": [
+    "discordjs",
+    "bot",
+    "template",
+    "discord bot"
+  ],
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "ncp": "^2.0.0"
+  }
+}

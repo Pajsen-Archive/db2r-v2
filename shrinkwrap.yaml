@@ -1,0 +1,32 @@
+dependencies:
+  file-system: 2.2.2
+  ncp: 2.0.0
+packages:
+  /file-match/1.0.2:
+    dependencies:
+      utils-extend: 1.0.8
+    dev: false
+    resolution:
+      integrity: sha1-ycrSZdLIrfOoFHWw30dYWQafrvc=
+  /file-system/2.2.2:
+    dependencies:
+      file-match: 1.0.2
+      utils-extend: 1.0.8
+    dev: false
+    resolution:
+      integrity: sha1-fWWDPjojR9zZVqgTxncVPtPt2Yc=
+  /ncp/2.0.0:
+    dev: false
+    hasBin: true
+    resolution:
+      integrity: sha1-GVoh1sRuNh0vsSgbo4uR6d9727M=
+  /utils-extend/1.0.8:
+    dev: false
+    resolution:
+      integrity: sha1-zP17ZFQPjpDuIe7Fd2nQZRyril8=
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  file-system: ^2.2.2
+  ncp: ^2.0.0
